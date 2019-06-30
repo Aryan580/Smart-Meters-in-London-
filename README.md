@@ -13,3 +13,4 @@ The Energy Consumption are as follows:-
       5. energy_std
       6. energy_sum
       7. energy_min
+
