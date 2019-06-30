@@ -14,3 +14,5 @@ The Energy Consumption are as follows:-
       6. energy_sum
       7. energy_min
 
+![HC D](https://user-images.githubusercontent.com/52332101/60401297-c727f980-9b9c-11e9-9112-bbc8ae4d4b99.JPG)
+Here is a visual workflow depicting how Hierarchical clustering was carried out.
